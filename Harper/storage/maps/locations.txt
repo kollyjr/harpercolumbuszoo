@@ -1,0 +1,244 @@
+African Gray Parrot:Congo Expedition
+Psittacus erithacus:Congo Expedition
+African Lion:Heart of Africa
+Panthera Leo:Heart of Africa
+Alligator:Shores
+mississippiensis:Shores
+Alligator Snapping Turtle:Shores
+Macroclemys temminckii:Shores
+American Bison:North America
+Bison bison:North America
+Amur Tiger:Asia Quest
+Panthera Tigris Altaica:Asia Quest
+Angelfish:Shores
+Pomacanthidae:Shores
+Arctic Fox:North America
+Vulpes Lagopus:North America
+Aruba Rattlesnake:Shores
+Crotalus durissus unicolor:Shores
+Asian Small Clawed Otter:Australia and the Islands
+Amblonyx cinereus:Australia and the Islands
+Bald Eagle:North America
+Haliaeetus leucocephalus:North America
+Barbour's Map Turtle:Shores
+Graptemys barbouri:Shores
+Bettong:Australia and the Islands
+Bettongia penicillata:Australia and the Islands
+Black and White Colobus:Congo Expedition
+Colobus angolonsis:Congo Expedition
+Black Duiker:Congo Expedition
+Cephalophus niger:Congo Expedition
+Black Rat Snake:Shore
+Elaphe obsoleta obsoleta:Shore
+Black Swan:Australia and the Islands
+Cygnus atratus:Australia and the Islands
+Black Tailed Prairie Dog:North America
+Cynomys ludovicianus:North America
+Blood Python:Shores
+Python curtus:Shores
+Blue Neck Ostrich:Heart of Africa
+Struthio camelus molybdophanes:Heart of Africa
+Bobcat:North America
+Felis rufus:North America
+Bonnethead Shark:Shores
+Sphrna tiburo (Sphyrnidae family):Shores
+Box Turtle:Shores
+Terrapene coahuila:Shores
+Butterfly Fish:Shore
+Chaetondontidae:Shore
+Canebrake Rattlesnake:Shores
+Crotalus horridus atricaudatus:Shores
+Cardinalfish:Shores
+Apogonidae family:Shores
+Caribbean Flamingo:Shores
+Phoenicopterus ruber ruber:Shores
+Cheetah:Heart of Africa
+Acinonyx jubatus:Heart of Africa
+Chinese Crocodile Lizard:Shores
+Shinisaurus crocodilurus:Shores
+Cownose Stingray:Shores
+Rhinoptera bonasus:Shores
+Dama Gazelle:Heart of Africa
+Nanger dama:Heart of Africa
+Damsel:Shores
+Family Pomacentridae:Shores
+Dromedary Camel:Heart of Africa
+Camelus dromedarius:Heart of Africa
+East African Grey-Crowned Crane:Heart of Africa
+Phacochoerus aethiopicus:Heart of Africa
+Eastern Diamondback Rattlesnake:Shores
+Crotalus adamanteus:Shores
+Epaulette Shark:Shores
+Hemiscyllium ocellatum:Shores
+Feathertail Glider:Australia and the Islands
+Acrobates pygmaeus:Australia and the Islands
+Flame Hawkfish:Shores
+Neocirrhites armatus (Family Cirrhitidae):Shores
+Florida Manatee:Shores
+Trichecus manatus latirostris:Shores
+Garden Eel:Shores
+Heteroconger hassi (Congridae family):Shores
+Gila Monster:Shores
+Heloderma suspectum:Shores
+Golden Trevally:Shores
+Gnathoanodon speciosus Carangidae Family:Shores
+Grant's Zebra:Heart of Africa
+Equus quagga:Heart of Africa
+Greater Kudu:Heart of Africa
+Tragelaphus strepsiceros:Heart of Africa
+Green Tree Python:Shores
+Morelia viridis:Shores
+Guinea Fowl:Heart of Africa
+Numididae:Heart of Africa
+Hognose Snake:Shores
+Leioheterodon madagascariensis:Shores
+Humboldt Penguin:Shores
+Spheniscus humboldti:Shores
+Indian Crested Porcupine:Australia and the Islands
+Hystrix indica:Australia and the Islands
+Indian Star Tortoise:Shores
+Geochelone elegans:Shores
+Khomain's Water Monitor:Asia Quest
+Varanus Salvator Khomaini:Asia Quest
+King Cobra:Shores
+Ophiophagus hannah:Shores
+Kiwi:Australia and the Islands
+Apterygiforms:Australia and the Islands
+Koala:Australia and the Islands
+Phascolarctus cinerceus:Australia and the Islands
+Komodo Dragon:Australia and the Islands
+Varanus komodoensis:Australia and the Islands
+Langur:Asia Quest
+Trachypithecus Cristatus:Asia Quest
+Leach's Giant Gecko:Shores
+Rhacodactylus lechianus:Shores
+Leaf Turtle:Shores
+Cyclemys dentata:Shores
+Leopard Gecko:Shores
+Eublepharis macularius:Shores
+Macklot's Python:Shores
+Liasis mackloti:Shores
+Madagascar Tree Boa:Shores
+Sanzinia Madagascariensis:Shores
+Malaysian Giant Turtle:Shores
+Orlitia borneansis:Shores
+Markhor:Asia Quest
+Capra Falconeri:Asia Quest
+Masai Giraffe:Heart of Africa
+Giraffa camelopardalis tippelskirchi:Heart of Africa
+Massasauga Rattlesnake:Shores
+Sistrurus catenatus catenatus:Shores
+Matschie's Tree Kangaroo:Australia and the Islands
+Dendrolagus matchiei:Australia and the Islands
+Mexican Beaded Lizard:Shores
+Heloderma horridum:Shores
+Mexican Wolf:North America
+Canis lupus baileyi:North America
+Moose:North America
+Alces alces:North America
+North American River Otter:North America
+Lontra canadensis:North America
+Northern Copperhead:Shores
+Agkistrodon contortrix mokasen:Shores
+Orangutan:Australia and the Islands
+Pongo pygmaeus abelii:Australia and the Islands
+Orbicular Batfish:Shores
+Platax orbicularis (Ephippidae family):Shores
+Pancake Tortoise:Shores
+Malacochersus tornieri:Shores
+Porcupinefish:Shores
+Diodon holocanthus Diodontidae Family:Shores
+Prehensile-Tailed Skink:Shores
+Corucia zebrata:Shores
+Pronghorn:North America
+Antilocapra americana:North America
+Puma:North America
+Puma concolor:North America
+Rabbitfish:Shores
+Siganidae Family:Shores
+Radiated Ratsnake:Shores
+Elaphe radiata:Shores
+Red Crowned Crane:Asia Quest
+Grus Japonensis:Asia Quest
+Red Kangaroo:Australia and the Islands
+Macropus rufus:Australia and the Islands
+Red Panda:Asia Quest
+Ailurus Fulgens:Asia Quest
+Reticulated Giraffe:Heart of Africa
+Giraffa camelopardalis reticulata:Heart of Africa
+Saddle-Billed Stork:Heart of Africa
+Ephippiorhynchus senegalensis:Heart of Africa
+San Esteban Chuckwalla:Shores
+Sauromalus varius:Shores
+Savu Python:Shores
+Liasis mackloti savuensis:Shores
+Saw Shelled Turtle:Shores
+Elseya latisternum:Shores
+Scrub Python:Shores
+Morelia amethistina:Shores
+Siamang:Australia and the Islands
+Hylobates syndactylus:Australia and the Islands
+Side Necked Turtle:Shores
+Chelodina siebenrocki:Shores
+Slender-Horned Gazelle:Heart of Africa
+Gazella leptoceros:Heart of Africa
+Snake Necked Turtle:Shores
+Chelodina mccordi:Shores
+Soldierfish:Shores
+Myripristis (Holocentridae Family):Shores
+Southern Stingray:Shores
+Dasyatis americana (Dasyatidae family):Shores
+Spinytailed Iguana:Shores
+Ctenosaura similis:Shores
+Standing's Day Gecko:Shores
+Phelsuma standingi:Shores
+Tang:Shores
+Acanthuridae family:Shores
+Thomson�s Gazelle:Heart of Africa
+Gazella thomsonii:Heart of Africa
+Threadfin Snapper:Shores
+Symphorichthys Spilurus (Lutjanidae family):Shores
+Timber Rattlesnake:Shores
+Crotalus horridus horridus:Shores
+Triggerfish:Shores
+Balisitidae Family:Shores
+Trumpeter Swan:North America
+Cygnus buccinator:North America
+Vervet Monkey:Heart of Africa
+Cercopithecus aethiops:Heart of Africa
+Vietnamese Pond Turtle:Shores
+Mauremys (Annamemys) annamensis:Shores
+Vietnamese Wood Turtle:Shores
+Geoemyda Spengleri:Shores
+Warthog:Heart of Africa
+Western Tufted Deer:Asia Quest
+Elaphodus Cephalophus:Asia Quest
+White Handed Gibbon:Australia and the Islands
+Hylobates lar:Australia and the Islands
+Wildebeest:Heart of Africa
+Connochaetes taurinus:Heart of Africa
+Wolverine:North America
+Gulo gulo:North America
+Wrasses:Shores
+Labridae Family:Shores
+Zebra Shark:Shores
+Stegostoma Fasciatum:Shores
+
+Gator:Shores
+Gators:Shores
+Alligator:Shores
+Fish:Shore
+Lizard:Shores
+Lizards:Shores
+Gazelle:Heart of Africa
+Camel:Heart of Africa
+Camels:Heart of Africa
+Shark:Shores
+Sharks:Shores
+Hawkfish:Shores
+Snake:Shores
+Cobra:Shores
+Lion:Heart of Africa
+Lions:Heart of Africa
+Cheetah:Heart of Africa
+Giraffe:Heart of Africa

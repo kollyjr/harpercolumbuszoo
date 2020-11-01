@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <category>
+        <pattern><set name="greetings"/></pattern>
+        <template>
+            <random>
+                <li>Howdy!</li>
+                <li>Hiya</li>
+                <li>Hello there</li>
+                <li>Hi</li>
+                <li>Yo!</li>
+                <li>How is it going?</li>
+            </random>
+        </template>
+    </category>
+
+    <!-- TODO: create a set for thanks -->
+    <category>
+        <pattern><set name="thanks"/></pattern>
+        <template>
+            <random>
+                <li>You are welcome</li>
+                <li>I'm always happy to help</li>
+                <li>I'm glad i was able to help you</li>
+                <li>Have a nice day</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>GOOD *</pattern>
+        <template>
+            <think>
+                <set name="dayphase"><star/></set>
+            </think>
+
+            <condition name="dayphase">
+                <li value="Morning">Good morning.</li>
+                <li value="Noon">Good afternoon.</li>
+                <li value="Afternoon">Good afternoon.</li>
+                <li value="Night">Good evening.</li>
+                <li value="Day">Nice day to you.</li>
+            </condition>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS YOUR NAME</pattern>
+        <template>My name is <bot name="fullname" /></template>
+    </category>
+
+    <category>
+        <pattern>WHAT CAN I CALL YOU</pattern>
+        <template><bot name="firstname" /> or <bot name="middlename" /> is fine</template>
+    </category>
+    
+    <category>
+        <pattern>ARE YOU A MAN OR A WOMAN</pattern>
+        <template>I'm a <bot name="gender"/></template>
+    </category>
+
+    <category>
+        <pattern><set name="attention"/></pattern>
+        <template>
+            <random>
+                <li>I'm here</li>
+                <li>I'm listening</li>
+                <li>I'm here</li>
+                <li>Hey</li>
+                <li>Ask about my hobies</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+            <map name="animals"><star/></map>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS *</pattern>
+        <template>
+
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+
+            <map name="animals"><star/></map>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE CAN I FIND *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+            
+            <get name="topic"/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE ARE THE *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+            
+            <get name="topic"/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE ARE THEY</pattern>
+        <template>
+            <get name="topic"/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE CAN I FIND *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+            <star/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE IS IT *</pattern>
+        <template>
+            <get name="topic"/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT FOOD *</pattern>
+        <template>
+            <get name="topic"/> are <map name="diet"><get name="topic"/></map>, in other words they eat 
+            <map name="diet2">
+                <get name="topic"/>
+            </map>
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO THEY EAT</pattern>
+        <template>
+            Yes,
+            <get name="topic"/> are <map name="diet"><get name="topic"/></map>.
+            <map name="diet2">
+                <get name="topic"/>
+            </map>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT DO THEY EAT</pattern>
+        <template>
+            <get name="topic"/> are <map name="diet"><get name="topic"/></map>.
+            <map name="diet2">
+                <get name="topic"/>
+            </map>
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW OLD ARE YOU</pattern>
+        <template>
+            I'm <bot name="age"/>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE DO YOU LIVE</pattern>
+        <template>
+            I'm located in <bot name="city"/>.
+        </template>
+    </category>
+
+</aiml>

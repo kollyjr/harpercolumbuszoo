@@ -1,0 +1,5 @@
+Morning
+Noon
+Afternoon
+Night
+Day

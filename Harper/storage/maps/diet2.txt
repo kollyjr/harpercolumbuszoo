@@ -1,0 +1,3 @@
+Carnivore: Meat
+Omnivore: Both Meat and Plants
+Herbivore: Plants

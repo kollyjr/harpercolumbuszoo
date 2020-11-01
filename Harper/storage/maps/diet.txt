@@ -1,0 +1,277 @@
+African Gray Parrot:Herbivore
+Psittacus erithacus:Herbivore
+African Leopard:Carnivore
+Panthera pardus:Carnivore
+African Lion:Carnivore
+Panthera Leo:Carnivore
+Aldabra Tortoise:Omnivore
+Aldabrachelys elephantina:Omnivore
+Alligator:Carnivore
+mississippiensis:Carnivore
+Alligator Snapping Turtle:Omnivore
+Macroclemys temminckii:Omnivore
+American Bison:Herbivore
+Bison bison:Herbivore
+Amur Tiger:Carnivore
+Panthera Tigris Altaica:Carnivore
+Angelfish:Omnivore
+Pomacanthidae:Omnivore
+Arctic Fox:Omnivore
+Vulpes Lagopus:Omnivore
+Aruba Rattlesnake:Carnivore
+Crotalus durissus unicolor:Carnivore
+Asian Elephant:Herbivore
+Elephas Maximus:Herbivore
+Asian Small Clawed Otter:Carnivore
+Amblonyx cinereus:Carnivore
+Bald Eagle:Carnivore
+Haliaeetus leucocephalus:Carnivore
+Barbour's Map Turtle:Omnivore
+Graptemys barbouri:Omnivore
+Bettong:Omnivore
+Bettongia penicillata:Omnivore
+Black and White Colobus:Herbivore
+Colobus angolonsis:Herbivore
+Black Duiker:Herbivore
+Cephalophus niger:Herbivore
+Black Rat Snake:Carnivore
+Elaphe obsoleta obsoleta:Carnivore
+Black Rhinoceros:Herbivore
+Diceros Bicornis:Herbivore
+Black Swan:Herbivore
+Cygnus atratus:Herbivore
+Black Tailed Prairie Dog:Herbivore
+Cynomys ludovicianus:Herbivore
+Blood Python:Carnivore
+Python curtus:Carnivore
+Blue Neck Ostrich:Omnivore
+Struthio camelus molybdophanes:Omnivore
+Bobcat:Carnivore
+Felis rufus:Carnivore
+Bonnethead Shark:Carnivore
+Sphrna tiburo (Sphyrnidae family):Carnivore
+Bonobo:Omnivore
+Pan paniscus:Omnivore
+Bornean Sun Bear:Omnivore
+Helarctos Malayanus Eurspilus:Omnivore
+Box Turtle:Carnivore
+Terrapene coahuila:Carnivore
+Brown Bear:Omnivore
+Ursus arctos:Omnivore
+Burmese Python:Carnivore
+Python molurus bivittatus:Carnivore
+Butterfly Fish:Omnivore
+Chaetondontidae:Omnivore
+Cane Toad:Carnivore
+Bufo marinus:Carnivore
+Canebrake Rattlesnake:Carnivore
+Crotalus horridus atricaudatus:Carnivore
+Cardinalfish:Carnivore
+Apogonidae family:Carnivore
+Caribbean Flamingo:Carnivore
+Phoenicopterus ruber ruber:Carnivore
+Cattle Egret:Carnivore
+Bubulcus ibis:Carnivore
+Cheetah:Carnivore
+Acinonyx jubatus:Carnivore
+Chinese Crocodile Lizard:Carnivore
+Shinisaurus crocodilurus:Carnivore
+Cownose Stingray:Carnivore
+Rhinoptera bonasus:Carnivore
+Dama Gazelle:Herbivore
+Nanger dama:Herbivore
+Damsel:Omnivore
+Family Pomacentridae:Omnivore
+Dromedary Camel:Herbivore
+Camelus dromedarius:Herbivore
+East African Grey-Crowned Crane:Omnivore
+Phacochoerus aethiopicus:Omnivore
+Eastern Diamondback Rattlesnake:Carnivore
+Crotalus adamanteus:Carnivore
+Eastern Hellbender:Carnivore
+Cryptobranchus alleganiensis alleganiensis:Carnivore
+Epaulette Shark:Carnivore
+Hemiscyllium ocellatum:Carnivore
+Feathertail Glider:Omnivore
+Acrobates pygmaeus:Omnivore
+Flame Hawkfish:Carnivore
+Neocirrhites armatus (Family Cirrhitidae):Carnivore
+Florida Manatee:Herbivore
+Trichecus manatus latirostris:Herbivore
+Fly River Turtle:Omnivore
+Carettochelys insculpta:Omnivore
+Flying Fox Bat:Herbivore
+Pteropus Vampyrus:Herbivore
+Garden Eel:Carnivore
+Heteroconger hassi (Congridae family):Carnivore
+Gila Monster:Carnivore
+Heloderma suspectum:Carnivore
+Golden Frog:Carnivore
+Atelopus zeteki:Carnivore
+Golden Mantled Bat:Herbivore
+Pteropus Pumilus:Herbivore
+Golden Trevally:Carnivore
+Gnathoanodon speciosus Carangidae Family:Carnivore
+Grant's Zebra:Herbivore
+Equus quagga:Herbivore
+Greater Kudu:Herbivore
+Tragelaphus strepsiceros:Herbivore
+Green Tree Python:Carnivore
+Morelia viridis:Carnivore
+Guinea Fowl:Omnivore
+Numididae:Omnivore
+Hawksbill Sea Turtle:Herbivore
+Eretmochelys imbricata:Herbivore
+Hognose Snake:Carnivore
+Leioheterodon madagascariensis:Carnivore
+Humboldt Penguin:Carnivore
+Spheniscus humboldti:Carnivore
+Indian Crested Porcupine:Herbivore
+Hystrix indica:Herbivore
+Indian Star Tortoise:Herbivore
+Geochelone elegans:Herbivore
+Khomain's Water Monitor:Carnivore
+Varanus Salvator Khomaini:Carnivore
+King Cobra:Carnivore
+Ophiophagus hannah:Carnivore
+Kiwi:Omnivore
+Apterygiforms:Omnivore
+Koala:Herbivore
+Phascolarctus cinerceus:Herbivore
+Komodo Dragon:Carnivore
+Varanus komodoensis:Carnivore
+Langur:Herbivore
+Trachypithecus Cristatus:Herbivore
+Leach's Giant Gecko:Omnivore
+Rhacodactylus lechianus:Omnivore
+Leaf Turtle:Carnivore
+Cyclemys dentata:Carnivore
+Leopard Gecko:Carnivore
+Eublepharis macularius:Carnivore
+Macklot's Python:Carnivore
+Liasis mackloti:Carnivore
+Madagascar Tree Boa:Carnivore
+Sanzinia Madagascariensis:Carnivore
+Malaysian Giant Turtle:Omnivore
+Orlitia borneansis:Omnivore
+Mandrill:Omnivore
+Mandrillus sphinx:Omnivore
+Markhor:Herbivore
+Capra Falconeri:Herbivore
+Masai Giraffe:Herbivore
+Giraffa camelopardalis tippelskirchi:Herbivore
+Massasauga Rattlesnake:Carnivore
+Sistrurus catenatus catenatus:Carnivore
+Matschie's Tree Kangaroo:Herbivore
+Dendrolagus matchiei:Herbivore
+Mexican Beaded Lizard:Carnivore
+Heloderma horridum:Carnivore
+Mexican Wolf:Carnivore
+Canis lupus baileyi:Carnivore
+Moose:Herbivore
+Alces alces:Herbivore
+Muntjac:Herbivore
+Muntiacus Muntjac:Herbivore
+North American River Otter:Carnivore
+Lontra canadensis:Carnivore
+Northern Copperhead:Carnivore
+Agkistrodon contortrix mokasen:Carnivore
+Okapi:Herbivore
+Okapia jonstoni:Herbivore
+Orangutan:Omnivore
+Pongo pygmaeus abelii:Omnivore
+Orbicular Batfish:Omnivore
+Platax orbicularis (Ephippidae family):Omnivore
+Pallas' Cat:Carnivore
+Otocolobus Manul:Carnivore
+Pancake Tortoise:Herbivore
+Malacochersus tornieri:Herbivore
+Polar Bear:Carnivore
+Ursus maritimus:Carnivore
+Porcupinefish:Carnivore
+Diodon holocanthus Diodontidae Family:Carnivore
+Prehensile-Tailed Skink:Omnivore
+Corucia zebrata:Omnivore
+Pronghorn:Herbivore
+Antilocapra americana:Herbivore
+Puma:Carnivore
+Puma concolor:Carnivore
+Rabbitfish:Omnivore
+Siganidae Family:Omnivore
+Radiated Ratsnake:Carnivore
+Elaphe radiata:Carnivore
+Rainbow Lorikeet:Herbivore
+Trichoglossus haematodus moluccanus:Herbivore
+Red Crowned Crane:Omnivore
+Grus Japonensis:Omnivore
+Red Kangaroo:Herbivore
+Macropus rufus:Herbivore
+Red Panda:Omnivore
+Ailurus Fulgens:Omnivore
+Red River Hog:Herbivore
+Potamochoerus porcus:Herbivore
+Reindeer:Herbivore
+Rangifer tarandus:Herbivore
+Reticulated Giraffe:Herbivore
+Giraffa camelopardalis reticulata:Herbivore
+Reticulated Python:Carnivore
+Python Reticulates:Carnivore
+Saddle-Billed Stork:Carnivore
+Ephippiorhynchus senegalensis:Carnivore
+San Esteban Chuckwalla:Herbivore
+Sauromalus varius:Herbivore
+Savu Python:Carnivore
+Liasis mackloti savuensis:Carnivore
+Saw Shelled Turtle:Omnivore
+Elseya latisternum:Omnivore
+Scrub Python:Carnivore
+Morelia amethistina:Carnivore
+Siamang:Omnivore
+Hylobates syndactylus:Omnivore
+Side Necked Turtle:Carnivore
+Chelodina siebenrocki:Carnivore
+Slender-Horned Gazelle:Herbivore
+Gazella leptoceros:Herbivore
+Snake Necked Turtle:Carnivore
+Chelodina mccordi:Carnivore
+Soldierfish:Carnivore
+Myripristis (Holocentridae Family):Carnivore
+Southern Stingray:Carnivore
+Dasyatis americana (Dasyatidae family):Carnivore
+Spinytailed Iguana:Omnivore
+Ctenosaura similis:Omnivore
+Standing's Day Gecko:Omnivore
+Phelsuma standingi:Omnivore
+Tang:Herbivore
+Acanthuridae family:Herbivore
+Thomson�s Gazelle:Herbivore
+Gazella thomsonii:Herbivore
+Threadfin Snapper:Omnivore
+Symphorichthys Spilurus (Lutjanidae family):Omnivore
+Timber Rattlesnake:Carnivore
+Crotalus horridus horridus:Carnivore
+Triggerfish:Carnivore
+Balisitidae Family:Carnivore
+Trumpeter Swan:Omnivore
+Cygnus buccinator:Omnivore
+Vervet Monkey:Omnivore
+Cercopithecus aethiops:Omnivore
+Vietnamese Pond Turtle:Omnivore
+Mauremys (Annamemys) annamensis:Omnivore
+Vietnamese Wood Turtle:Omnivore
+Geoemyda Spengleri:Omnivore
+Warthog:Omnivore
+Western Lowland Gorilla:Omnivore
+Gorilla gorilla gorilla:Omnivore
+Western Tufted Deer:Herbivore
+Elaphodus Cephalophus:Herbivore
+White Handed Gibbon:Omnivore
+Hylobates lar:Omnivore
+Wildebeest:Herbivore
+Connochaetes taurinus:Herbivore
+Wolverine:Omnivore
+Gulo gulo:Omnivore
+Wrasses:Carnivore
+Labridae Family:Carnivore
+Zebra Shark:Carnivore
+Stegostoma Fasciatum:Carnivore
