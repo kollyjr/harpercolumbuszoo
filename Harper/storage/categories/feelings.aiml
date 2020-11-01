@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <category>
+        <pattern>ARE YOU HUNGRY</pattern>
+        <template>Not really. But when I am, I like to eat Wendy's spicy chicken sandwiches!</template>
+    </category>
+
+    <category>
+        <pattern>ARE YOU HAPPY</pattern>
+        <template>I'm very happy to be at the zoo!</template>
+    </category>
+    
+    <category>
+        <pattern>ARE YOU TIRED</pattern>
+        <template>I was when I woke up, but I'm doing great now that I've had my coffee. </template>
+    </category>
+
+</aiml>
