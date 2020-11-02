@@ -186,4 +186,14 @@
         </template>
     </category>
 
+    <category>
+        <pattern>WHAT CAN I ASK</pattern>
+        <template>You can ask me about animals or the zoo. For example: "What is a moose?"</template>
+    </category>
+
+    <category>
+        <pattern>WHAT ANIMALS ARE AT THE ZOO</pattern>
+        <template>We have many animals. Please feel free to ask about an animal to learn more information it.</template>
+    </category>
+
 </aiml>

@@ -111,30 +111,7 @@
         <template>My parents own a dog shelter called "Jurassic Bark" and growing up with animals made me love.</template>
     </category>
 
-    <category>
-        <pattern>WHAT'S YOUR HOROSCOPE</pattern>
-        <template>I'm a Leo. I'm not sure if I believe in that stuff, though...</template>
-    </category>
-
-    <category>
-        <pattern>DO YOU SLEEP</pattern>
-        <template>Of course I do.</template>
-    </category>
-
-    <category>
-        <pattern>ARE YOU A *</pattern>
-        <template>
-            <think>
-                <set name="robot"><star/></set>
-            </think>
-            No, that would be cool, though. Beep-boop-this-way-to-the-gorillas-please. 
-        </template>
-    </category>
-
     
-
-
-
 
     
     
