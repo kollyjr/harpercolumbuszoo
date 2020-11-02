@@ -212,6 +212,7 @@
     </category>
 
     <category>
+<<<<<<< HEAD
         <pattern>HOW ARE YOU *</pattern>
         <template>I'm great, And you?</template>
     </category>
@@ -244,6 +245,15 @@
     <category>
         <pattern>ANIMALS *</pattern>
         <template>There's so many, can you be more specific.</template>
+=======
+        <pattern>WHAT CAN I ASK</pattern>
+        <template>You can ask me about animals or the zoo. For example: "What is a moose?"</template>
+    </category>
+
+    <category>
+        <pattern>WHAT ANIMALS ARE AT THE ZOO</pattern>
+        <template>We have many animals. Please feel free to ask about an animal to learn more information it.</template>
+>>>>>>> 94d409280427a921468516938b0ea2c19ff0f484
     </category>
 
 </aiml>
