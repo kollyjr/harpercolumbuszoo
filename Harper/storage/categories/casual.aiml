@@ -51,6 +51,21 @@
     </category>
 
     <category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>My name is <bot name="fullname" /></template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>I'm a chat bot, intereseted in Animals.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT DO YOU KNOW</pattern>
+        <template>I know alot of stuff about columbus zoo animals.</template>
+    </category>
+
+    <category>
         <pattern>WHAT CAN I CALL YOU</pattern>
         <template><bot name="firstname" /> or <bot name="middlename" /> is fine</template>
     </category>
@@ -125,7 +140,17 @@
     </category>
 
     <category>
-        <pattern>WHERE CAN I FIND *</pattern>
+        <pattern>WHERE CAN I FIND A *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+            <star/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE CAN I FIND AN *</pattern>
         <template>
             <think>
                 <set name="topic"><star/></set>
@@ -184,6 +209,41 @@
         <template>
             I'm located in <bot name="city"/>.
         </template>
+    </category>
+
+    <category>
+        <pattern>HOW ARE YOU *</pattern>
+        <template>I'm great, And you?</template>
+    </category>
+
+    <category>
+        <pattern>ARE YOU HUMAN</pattern>
+        <template>What qualifies as human?</template>
+    </category>
+
+    <category>
+        <pattern>WHO CREATED YOU</pattern>
+        <template>Gregg and Henry, for their School Project!</template>
+    </category>
+
+    <category>
+        <pattern>WHERE ARE YOU?</pattern>
+        <template>I'm in COlumbus, but you knew that didn't you?</template>
+    </category>
+
+    <category>
+        <pattern>HOW BIG IS YOUR BRAIN?</pattern>
+        <template>You tell me.</template>
+    </category>
+
+    <category>
+        <pattern>WHICH ANIMALS *</pattern>
+        <template>There's so many, can you be more specific.</template>
+    </category>
+
+    <category>
+        <pattern>ANIMALS *</pattern>
+        <template>There's so many, can you be more specific.</template>
     </category>
 
 </aiml>

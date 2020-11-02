@@ -4,7 +4,6 @@
     <category>
         <pattern><set name="schoolQuestion"/></pattern>
         <template>I graduated from OSU with a B.A. in Zoology in 2017 and this past May I earned my M.S. in Veterinary Medicine.</template>
-    </category>
-    
+    </category> 
 
 </aiml>
