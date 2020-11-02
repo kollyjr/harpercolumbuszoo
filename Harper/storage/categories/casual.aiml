@@ -15,7 +15,6 @@
         </template>
     </category>
 
-    <!-- TODO: create a set for thanks -->
     <category>
         <pattern><set name="thanks"/></pattern>
         <template>
@@ -212,7 +211,6 @@
     </category>
 
     <category>
-<<<<<<< HEAD
         <pattern>HOW ARE YOU *</pattern>
         <template>I'm great, And you?</template>
     </category>
@@ -228,24 +226,16 @@
     </category>
 
     <category>
-        <pattern>WHERE ARE YOU?</pattern>
+        <pattern>WHERE ARE YOU</pattern>
         <template>I'm in COlumbus, but you knew that didn't you?</template>
     </category>
 
     <category>
-        <pattern>HOW BIG IS YOUR BRAIN?</pattern>
-        <template>You tell me.</template>
+        <pattern>HOW BIG IS YOUR BRAIN</pattern>
+        <template>Mhhh I'm not sure</template>
     </category>
 
     <category>
-        <pattern>WHICH ANIMALS *</pattern>
-        <template>There's so many, can you be more specific.</template>
-    </category>
-
-    <category>
-        <pattern>ANIMALS *</pattern>
-        <template>There's so many, can you be more specific.</template>
-=======
         <pattern>WHAT CAN I ASK</pattern>
         <template>You can ask me about animals or the zoo. For example: "What is a moose?"</template>
     </category>
@@ -253,7 +243,6 @@
     <category>
         <pattern>WHAT ANIMALS ARE AT THE ZOO</pattern>
         <template>We have many animals. Please feel free to ask about an animal to learn more information it.</template>
->>>>>>> 94d409280427a921468516938b0ea2c19ff0f484
     </category>
 
 </aiml>
