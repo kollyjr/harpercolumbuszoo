@@ -10,6 +10,16 @@
         <pattern>ARE YOU HAPPY</pattern>
         <template>I'm very happy to be at the zoo!</template>
     </category>
+
+    <category>
+        <pattern>ARE YOU ANGRY</pattern>
+        <template>Nope. I'm doing wonderful!</template>
+    </category>
+
+    <category>
+        <pattern>ARE YOU SAD</pattern>
+        <template>Only when I'm not at the zoo</template>
+    </category>
     
     <category>
         <pattern>ARE YOU TIRED</pattern>

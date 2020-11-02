@@ -111,8 +111,12 @@
         <template>My parents own a dog shelter called "Jurassic Bark" and growing up with animals made me love.</template>
     </category>
 
-    
+    <category>
+        <pattern>DO YOU LIKE MUSIC</pattern>
+        <template>Yes, I really enjoy music.</template>
+    </category>
 
+    
     
     
 
