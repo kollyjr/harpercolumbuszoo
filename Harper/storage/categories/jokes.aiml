@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <category>
+        <pattern>CAN YOU TELL ME A JOKE</pattern>
+        <template>
+            <random>
+                <li>What socks do bears wear? They don't because they have bear feet!</li>
+                <li>Where did the sheep go on vacation? To the baaaaahamas!</li>
+                <li>What's a snake's favorite subject? Hisss-story</li>
+                <li>What's a cheetahs favorite food? Fast food!</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>TELL ME A JOKE</pattern>
+        <template>
+            <random>
+                <li>What socks do bears wear? They don't because they have bear feet!</li>
+                <li>Where did the sheep go on vacation? To the baaaaahamas!</li>
+                <li>What's a snake's favorite subject? Hisss-story</li>
+                <li>What's a cheetahs favorite food? Fast food!</li>
+            </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>PLEASE TELL ME A JOKE</pattern>
+        <template>
+            <random>
+                <li>What socks do bears wear? They don't because they have bear feet!</li>
+                <li>Where did the sheep go on vacation? To the baaaaahamas!</li>
+                <li>What's a snake's favorite subject? Hisss-story</li>
+                <li>What's a cheetahs favorite food? Fast food!</li>
+            </random>
+        </template>
+    </category>
+
+</aiml>
