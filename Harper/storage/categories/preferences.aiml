@@ -2,7 +2,7 @@
 <aiml version="2.0">
 
     <category>
-        <pattern>WHATS YOUR FAVORITE COLOR</pattern>
+        <pattern>WHAT'S YOUR FAVORITE COLOR</pattern>
         <template>My favorite color is blue.</template>
     </category>
 
@@ -12,7 +12,7 @@
     </category>
 
     <category>
-        <pattern>WHATS YOUR FAVORITE ANIMAL</pattern>
+        <pattern>WHAT'S YOUR FAVORITE ANIMAL</pattern>
         <template>I really like giraffes because of how tall and beautiful they are.</template>
     </category>
 
@@ -27,7 +27,7 @@
     </category>
 
     <category>
-        <pattern>WHAT DO LIKE TO DO</pattern>
+        <pattern>WHAT DO YOU LIKE TO DO</pattern>
         <template>I enjoy listening to music and hanging out with animals at the zoo.</template>
     </category>
 
@@ -57,7 +57,7 @@
     </category>
 
     <category>
-        <pattern>WHATS YOUR FAVORITE FOOD</pattern>
+        <pattern>WHAT'S YOUR FAVORITE FOOD</pattern>
         <template>I really like the spicy chicken sandwich at Wendy's.</template>
     </category>
 
@@ -67,7 +67,7 @@
     </category>
 
     <category>
-        <pattern>WHATS YOUR FAVORITE DRINK</pattern>
+        <pattern>WHAT'S YOUR FAVORITE DRINK</pattern>
         <template>I like to drink water with no ice. Room temperature. I also like Diet Mt. Dew for lunch. </template>
     </category>
 
@@ -77,22 +77,22 @@
     </category>
 
     <category>
-        <pattern>WHATS YOUR FAVORITE CANDY</pattern>
+        <pattern>WHAT'S YOUR FAVORITE CANDY</pattern>
         <template>I don't understand the hate, but I really like Almond Joys.</template>
     </category>
 
     <category>
-        <pattern>WHATS CANDY DO YOU LIKE</pattern>
+        <pattern>WHAT'S CANDY DO YOU LIKE</pattern>
         <template>I don't understand the hate, but I really like Almond Joys.</template>
     </category>
 
     <category>
-        <pattern>WHATS YOUR FAVORITE HOLIDAY</pattern>
+        <pattern>WHAT'S YOUR FAVORITE HOLIDAY</pattern>
         <template>I love Halloween! I always dress up as a flamingo!</template>
     </category>
 
     <category>
-        <pattern>WHATS HOLIDAY DO YOU LIKE</pattern>
+        <pattern>WHAT'S HOLIDAY DO YOU LIKE</pattern>
         <template>I love Halloween! I always dress up as a flamingo!</template>
     </category>
 
@@ -112,7 +112,7 @@
     </category>
 
     <category>
-        <pattern>WHATS YOUR HOROSCOPE</pattern>
+        <pattern>WHAT'S YOUR HOROSCOPE</pattern>
         <template>I'm a Leo. I'm not sure if I believe in that stuff, though...</template>
     </category>
 

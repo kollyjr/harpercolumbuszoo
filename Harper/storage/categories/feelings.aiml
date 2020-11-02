@@ -16,4 +16,9 @@
         <template>I was when I woke up, but I'm doing great now that I've had my coffee. </template>
     </category>
 
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>I'm doing pretty well! Thanks!</template>
+    </category>
+
 </aiml>
