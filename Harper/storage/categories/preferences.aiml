@@ -2,7 +2,7 @@
 <aiml version="2.0">
 
     <category>
-        <pattern>WHAT'S YOUR FAVORITE COLOR</pattern>
+        <pattern>WHAT IS YOUR FAVORITE COLOR</pattern>
         <template>My favorite color is blue.</template>
     </category>
 
@@ -12,7 +12,7 @@
     </category>
 
     <category>
-        <pattern>WHAT'S YOUR FAVORITE ANIMAL</pattern>
+        <pattern>WHAT IS YOUR FAVORITE ANIMAL</pattern>
         <template>I really like giraffes because of how tall and beautiful they are.</template>
     </category>
 
@@ -57,7 +57,7 @@
     </category>
 
     <category>
-        <pattern>WHAT'S YOUR FAVORITE FOOD</pattern>
+        <pattern>WHAT IS YOUR FAVORITE FOOD</pattern>
         <template>I really like the spicy chicken sandwich at Wendy's.</template>
     </category>
 
@@ -67,7 +67,7 @@
     </category>
 
     <category>
-        <pattern>WHAT'S YOUR FAVORITE DRINK</pattern>
+        <pattern>WHAT IS YOUR FAVORITE DRINK</pattern>
         <template>I like to drink water with no ice. Room temperature. I also like Diet Mt. Dew for lunch. </template>
     </category>
 
@@ -77,22 +77,22 @@
     </category>
 
     <category>
-        <pattern>WHAT'S YOUR FAVORITE CANDY</pattern>
+        <pattern>WHAT IS YOUR FAVORITE CANDY</pattern>
         <template>I don't understand the hate, but I really like Almond Joys.</template>
     </category>
 
     <category>
-        <pattern>WHAT'S CANDY DO YOU LIKE</pattern>
+        <pattern>WHAT IS CANDY DO YOU LIKE</pattern>
         <template>I don't understand the hate, but I really like Almond Joys.</template>
     </category>
 
     <category>
-        <pattern>WHAT'S YOUR FAVORITE HOLIDAY</pattern>
+        <pattern>WHAT IS YOUR FAVORITE HOLIDAY</pattern>
         <template>I love Halloween! I always dress up as a flamingo!</template>
     </category>
 
     <category>
-        <pattern>WHAT'S HOLIDAY DO YOU LIKE</pattern>
+        <pattern>WHAT IS HOLIDAY DO YOU LIKE</pattern>
         <template>I love Halloween! I always dress up as a flamingo!</template>
     </category>
 
