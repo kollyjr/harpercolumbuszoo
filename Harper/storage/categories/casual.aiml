@@ -98,29 +98,6 @@
     </category>
 
     <category>
-        <pattern>WHAT IS A *</pattern>
-        <template>
-            <think>
-                <set name="topic"><star/></set>
-            </think>
-
-            <map name="animals"><star/></map>
-        </template>
-    </category>
-
-    <category>
-        <pattern>WHAT IS *</pattern>
-        <template>
-
-            <think>
-                <set name="topic"><star/></set>
-            </think>
-
-            <map name="animals"><star/></map>
-        </template>
-    </category>
-
-    <category>
         <pattern>WHERE CAN I FIND *</pattern>
         <template>
             <think>
