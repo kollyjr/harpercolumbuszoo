@@ -33,7 +33,8 @@ class WebChatBotClient(FlaskRestBotClient):
         if self.configuration.client_configuration.use_api_keys is True:
             api_key = self.api_keys.get_api_key(request)
             if api_key is None:
-                YLogger.error(self, "Unauthorised access - api required but missing")
+                YLogger.error(
+                    self, "Unauthorised access - api required but missing")
                 return self.unauthorised_access_response()
 
             if self.api_keys.is_apikey_valid(api_key) is False:
@@ -48,7 +49,8 @@ class WebChatBotClient(FlaskRestBotClient):
         return None
 
     def get_userid(self, request):
-        userid = request.cookies.get(self.configuration.client_configuration.cookie_id)
+        userid = request.cookies.get(
+            self.configuration.client_configuration.cookie_id)
         if userid is None:
             userid = str(uuid.uuid4().hex)
             YLogger.debug(self, "Setting userid cookie to :%s" % userid)
@@ -75,14 +77,16 @@ class WebChatBotClient(FlaskRestBotClient):
 
     def create_response(self, response_data, userid, userid_expire_date):
         response = jsonify({'response': response_data})
-        response.set_cookie(self.configuration.client_configuration.cookie_id, userid, expires=userid_expire_date)
+        response.set_cookie(
+            self.configuration.client_configuration.cookie_id, userid, expires=userid_expire_date)
         return response
 
     def get_answer(self, client_context, question):
         if question == 'YINITIALQUESTION':
             answer = client_context.bot.get_initial_question(client_context)
         else:
-            answer = client_context.bot.ask_question(client_context, question, responselogger=self)
+            answer = client_context.bot.ask_question(
+                client_context, question, responselogger=self)
         return answer
 
     def receive_message(self, request):
@@ -98,17 +102,20 @@ class WebChatBotClient(FlaskRestBotClient):
 
         userid = self.get_userid(request)
 
-        userid_expire_date = self.get_userid_cookie_expirary_date(self.configuration.client_configuration.cookie_expires)
+        userid_expire_date = self.get_userid_cookie_expirary_date(
+            self.configuration.client_configuration.cookie_expires)
 
         client_context = self.create_client_context(userid)
         try:
             answer = self.get_answer(client_context, question)
             rendered = self._renderer.render(client_context, answer)
-            response_data = self.create_success_response_data(question, rendered)
+            response_data = self.create_success_response_data(
+                question, rendered)
 
         except Exception as excep:
             YLogger.exception(self, "Failed receving message", excep)
-            response_data = self.create_error_response_data(client_context, question, str(excep))
+            response_data = self.create_error_response_data(
+                client_context, question, str(excep))
 
         return self.create_response(response_data, userid, userid_expire_date)
 

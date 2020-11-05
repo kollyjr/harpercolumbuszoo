@@ -1,56 +1,56 @@
-parrot:African Gray Parrot,Psittacus erithacus
-leopard:African Leopard,Panthera pardus
-lion:African Lion,Panthera Leo
-tortoise:Aldabra Tortoise,Aldabrachelys elephantina,Indian Star Tortoise,Geochelone elegans,Pancake Tortoise,Malacochersus tornieri
-alligator:Alligator,mississippiensis
-turtle:Alligator Snapping Turtle,Macroclemys temminckii,Barbour's Map Turtle,Graptemys barbouri,Box Turtle,Terrapene coahuila,Fly River Turtle,Carettochelys insculpta,Hawksbill Sea Turtle,Eretmochelys imbricata,Leaf Turtle,Cyclemys dentata,Malaysian Giant Turtle,Orlitia borneansis,Saw Shelled Turtle,Elseya latisternum,Side Necked Turtle,Chelodina siebenrocki,Snake Necked Turtle,Chelodina mccordi,Vietnamese Pond Turtle,Mauremys (Annamemys) annamensis,Vietnamese Wood Turtle,Geoemyda Spengleri
-bison:American Bison,Bison bison
-tiger:Amur Tiger,Panthera Tigris Altaica
-fish:Angelfish,Pomacanthidae,Butterfly Fish,Chaetondontidae,Cardinalfish,Apogonidae family,Damsel,Family Pomacentridae,Flame Hawkfish,Neocirrhites armatus (Family Cirrhitidae),Golden Trevally,Gnathoanodon speciosus Carangidae Family,Orbicular Batfish,Platax orbicularis (Ephippidae family),Porcupinefish,Diodon holocanthus Diodontidae Family,Rabbitfish,Siganidae Family,Soldierfish,Myripristis (Holocentridae Family),Tang,Acanthuridae family,Threadfin Snapper,Symphorichthys Spilurus (Lutjanidae family),Triggerfish,Balisitidae Family,Wrasses,Labridae Family
-fox:Arctic Fox,Vulpes Lagopus
-snake:Aruba Rattlesnake,Crotalus durissus unicolor,Black Rat Snake,Elaphe obsoleta obsoleta,Blood Python,Python curtus,Burmese Python,Python molurus bivittatus,Canebrake Rattlesnake,Crotalus horridus atricaudatus,Eastern Diamondback Rattlesnake,Crotalus adamanteus,Green Tree Python,Morelia viridis,Hognose Snake,Leioheterodon madagascariensis,King Cobra,Ophiophagus hannah,Macklot's Python,Liasis mackloti,Madagascar Tree Boa,Sanzinia Madagascariensis,Massasauga Rattlesnake,Sistrurus catenatus catenatus,Radiated Ratsnake,Elaphe radiata,Reticulated Python,Python Reticulates,Savu Python,Liasis mackloti savuensis,Scrub Python,Morelia amethistina,Timber Rattlesnake,Crotalus horridus horridus
-elephant:Asian Elephant,Elephas Maximus
-otter:Asian Small Clawed Otter,Amblonyx cinereus,North American River Otter,Lontra canadensis
-eagle:Bald Eagle,Haliaeetus leucocephalus
-marsupial:Bettong,Bettongia penicillata,Matschie's Tree Kangaroo,Dendrolagus matchiei,Red Kangaroo,Macropus rufus
-monkey:Black and White Colobus,Colobus angolonsis,Langur,Trachypithecus Cristatus,Mandrill,Mandrillus sphinx,Vervet Monkey,Cercopithecus aethiops
-antelope:Black Duiker,Cephalophus niger,Greater Kudu,Tragelaphus strepsiceros,Wildebeest,Connochaetes taurinus
-rhinoceros:Black Rhinoceros,Diceros Bicornis
-swan:Black Swan,Cygnus atratus,Trumpeter Swan,Cygnus buccinator
-rodent:Black Tailed Prairie Dog,Cynomys ludovicianus,Feathertail Glider,Acrobates pygmaeus
-ostrich:Blue Neck Ostrich,Struthio camelus molybdophanes
-cat:Bobcat,Felis rufus,Pallas' Cat,Otocolobus Manul
-shark:Bonnethead Shark,Sphrna tiburo (Sphyrnidae family),Epaulette Shark,Hemiscyllium ocellatum,Zebra Shark,Stegostoma Fasciatum
-chimpanzee:Bonobo,Pan paniscus
-bear:Bornean Sun Bear,Helarctos Malayanus Eurspilus,Brown Bear,Ursus arctos,Koala,Phascolarctus cinerceus,Polar Bear,Ursus maritimus,Red Panda,Ailurus Fulgens
-toad:Cane Toad,Bufo marinus
-flamingo:Caribbean Flamingo,Phoenicopterus ruber ruber
-bird:Cattle Egret,Bubulcus ibis,Rainbow Lorikeet,Trichoglossus haematodus moluccanus
-cheetah:Cheetah,Acinonyx jubatus
-lizard:Chinese Crocodile Lizard,Shinisaurus crocodilurus,Gila Monster,Heloderma suspectum,Khomain's Water Monitor,Varanus Salvator Khomaini,Komodo Dragon,Varanus komodoensis,Leach's Giant Gecko,Rhacodactylus lechianus,Leopard Gecko,Eublepharis macularius,Mexican Beaded Lizard,Heloderma horridum,Northern Copperhead,Agkistrodon contortrix mokasen,Prehensile-Tailed Skink,Corucia zebrata,San Esteban Chuckwalla,Sauromalus varius,Spinytailed Iguana,Ctenosaura similis,Standing's Day Gecko,Phelsuma standingi
-stingray:Cownose Stingray,Rhinoptera bonasus,Southern Stingray,Dasyatis americana (Dasyatidae family)
-gazelle:Dama Gazelle,Nanger dama,Slender-Horned Gazelle,Gazella leptoceros,Thomson's Gazelle,Gazella thomsonii
-camel:Dromedary Camel,Camelus dromedarius
-crane:East African Grey-Crowned Crane,Phacochoerus aethiopicus,Red Crowned Crane,Grus Japonensis
-salamander:Eastern Hellbender,Cryptobranchus alleganiensis alleganiensis
-manatee:Florida Manatee,Trichecus manatus latirostris
-bat:Flying Fox Bat,Pteropus Vampyrus,Golden Mantled Bat,Pteropus Pumilus
-eel:Garden Eel,Heteroconger hassi (Congridae family)
-frog:Golden Frog,Atelopus zeteki
-zebra:Grant's Zebra,Equus quagga
-fowl:Guinea Fowl,Numididae
-penguin:Humboldt Penguin,Spheniscus humboldti
-porcupine:Indian Crested Porcupine,Hystrix indica
-kiwi:Kiwi,Apterygiforms
-goat:Markhor,Capra Falconeri
-giraffe:Masai Giraffe,Giraffa camelopardalis tippelskirchi,Okapi,Okapia jonstoni,Pronghorn,Antilocapra americana,Reticulated Giraffe,Giraffa camelopardalis reticulata
-wolf:Mexican Wolf,Canis lupus baileyi
-moose:Moose,Alces alces
-deer:Muntjac,Muntiacus Muntjac,Reindeer,Rangifer tarandus,Western Tufted Deer,Elaphodus Cephalophus
-orangutan:Orangutan,Pongo pygmaeus abelii
-puma:Puma,Puma concolor
-hog:Red River Hog,Potamochoerus porcus,Warthog
-stork:Saddle-Billed Stork,Ephippiorhynchus senegalensis
-ape:Siamang,Hylobates syndactylus,White Handed Gibbon,Hylobates lar
-gorilla:Western Lowland Gorilla,Gorilla gorilla gorilla
-wolverine:Wolverine,Gulo gulo
+parrot:There's a few different types, let me know the one your interested in.African Gray Parrot,Psittacus erithacus
+leopard:There's a few different types, let me know the one your interested in.African Leopard,Panthera pardus
+lion:There's a few different types, let me know the one your interested in.African Lion,Panthera Leo
+tortoise:There's a few different types, let me know the one your interested in.Aldabra Tortoise,Aldabrachelys elephantina,Indian Star Tortoise,Geochelone elegans,Pancake Tortoise,Malacochersus tornieri
+alligator:There's a few different types, let me know the one your interested in.Alligator,mississippiensis
+turtle:There's a few different types, let me know the one your interested in.Alligator Snapping Turtle,Macroclemys temminckii,Barbour's Map Turtle,Graptemys barbouri,Box Turtle,Terrapene coahuila,Fly River Turtle,Carettochelys insculpta,Hawksbill Sea Turtle,Eretmochelys imbricata,Leaf Turtle,Cyclemys dentata,Malaysian Giant Turtle,Orlitia borneansis,Saw Shelled Turtle,Elseya latisternum,Side Necked Turtle,Chelodina siebenrocki,Snake Necked Turtle,Chelodina mccordi,Vietnamese Pond Turtle,Mauremys (Annamemys) annamensis,Vietnamese Wood Turtle,Geoemyda Spengleri
+bison:There's a few different types, let me know the one your interested in.American Bison,Bison bison
+tiger:There's a few different types, let me know the one your interested in.Amur Tiger,Panthera Tigris Altaica
+fish:There's a few different types, let me know the one your interested in.Angelfish,Pomacanthidae,Butterfly Fish,Chaetondontidae,Cardinalfish,Apogonidae family,Damsel,Family Pomacentridae,Flame Hawkfish,Neocirrhites armatus (Family Cirrhitidae),Golden Trevally,Gnathoanodon speciosus Carangidae Family,Orbicular Batfish,Platax orbicularis (Ephippidae family),Porcupinefish,Diodon holocanthus Diodontidae Family,Rabbitfish,Siganidae Family,Soldierfish,Myripristis (Holocentridae Family),Tang,Acanthuridae family,Threadfin Snapper,Symphorichthys Spilurus (Lutjanidae family),Triggerfish,Balisitidae Family,Wrasses,Labridae Family
+fox:There's a few different types, let me know the one your interested in.Arctic Fox,Vulpes Lagopus
+snake:There's a few different types, let me know the one your interested in.Aruba Rattlesnake,Crotalus durissus unicolor,Black Rat Snake,Elaphe obsoleta obsoleta,Blood Python,Python curtus,Burmese Python,Python molurus bivittatus,Canebrake Rattlesnake,Crotalus horridus atricaudatus,Eastern Diamondback Rattlesnake,Crotalus adamanteus,Green Tree Python,Morelia viridis,Hognose Snake,Leioheterodon madagascariensis,King Cobra,Ophiophagus hannah,Macklot's Python,Liasis mackloti,Madagascar Tree Boa,Sanzinia Madagascariensis,Massasauga Rattlesnake,Sistrurus catenatus catenatus,Radiated Ratsnake,Elaphe radiata,Reticulated Python,Python Reticulates,Savu Python,Liasis mackloti savuensis,Scrub Python,Morelia amethistina,Timber Rattlesnake,Crotalus horridus horridus
+elephant:There's a few different types, let me know the one your interested in.Asian Elephant,Elephas Maximus
+otter:There's a few different types, let me know the one your interested in.Asian Small Clawed Otter,Amblonyx cinereus,North American River Otter,Lontra canadensis
+eagle:There's a few different types, let me know the one your interested in.Bald Eagle,Haliaeetus leucocephalus
+marsupial:There's a few different types, let me know the one your interested in.Bettong,Bettongia penicillata,Matschie's Tree Kangaroo,Dendrolagus matchiei,Red Kangaroo,Macropus rufus
+monkey:There's a few different types, let me know the one your interested in.Black and White Colobus,Colobus angolonsis,Langur,Trachypithecus Cristatus,Mandrill,Mandrillus sphinx,Vervet Monkey,Cercopithecus aethiops
+antelope:There's a few different types, let me know the one your interested in.Black Duiker,Cephalophus niger,Greater Kudu,Tragelaphus strepsiceros,Wildebeest,Connochaetes taurinus
+rhinoceros:There's a few different types, let me know the one your interested in.Black Rhinoceros,Diceros Bicornis
+swan:There's a few different types, let me know the one your interested in.Black Swan,Cygnus atratus,Trumpeter Swan,Cygnus buccinator
+rodent:There's a few different types, let me know the one your interested in.Black Tailed Prairie Dog,Cynomys ludovicianus,Feathertail Glider,Acrobates pygmaeus
+ostrich:There's a few different types, let me know the one your interested in.Blue Neck Ostrich,Struthio camelus molybdophanes
+cat:There's a few different types, let me know the one your interested in.Bobcat,Felis rufus,Pallas' Cat,Otocolobus Manul
+shark:There's a few different types, let me know the one your interested in.Bonnethead Shark,Sphrna tiburo (Sphyrnidae family),Epaulette Shark,Hemiscyllium ocellatum,Zebra Shark,Stegostoma Fasciatum
+chimpanzee:There's a few different types, let me know the one your interested in.Bonobo,Pan paniscus
+bear:There's a few different types, let me know the one your interested in.Bornean Sun Bear,Helarctos Malayanus Eurspilus,Brown Bear,Ursus arctos,Koala,Phascolarctus cinerceus,Polar Bear,Ursus maritimus,Red Panda,Ailurus Fulgens
+toad:There's a few different types, let me know the one your interested in.Cane Toad,Bufo marinus
+flamingo:There's a few different types, let me know the one your interested in.Caribbean Flamingo,Phoenicopterus ruber ruber
+bird:There's a few different types, let me know the one your interested in.Cattle Egret,Bubulcus ibis,Rainbow Lorikeet,Trichoglossus haematodus moluccanus
+cheetah:There's a few different types, let me know the one your interested in.Cheetah,Acinonyx jubatus
+lizard:There's a few different types, let me know the one your interested in.Chinese Crocodile Lizard,Shinisaurus crocodilurus,Gila Monster,Heloderma suspectum,Khomain's Water Monitor,Varanus Salvator Khomaini,Komodo Dragon,Varanus komodoensis,Leach's Giant Gecko,Rhacodactylus lechianus,Leopard Gecko,Eublepharis macularius,Mexican Beaded Lizard,Heloderma horridum,Northern Copperhead,Agkistrodon contortrix mokasen,Prehensile-Tailed Skink,Corucia zebrata,San Esteban Chuckwalla,Sauromalus varius,Spinytailed Iguana,Ctenosaura similis,Standing's Day Gecko,Phelsuma standingi
+stingray:There's a few different types, let me know the one your interested in.Cownose Stingray,Rhinoptera bonasus,Southern Stingray,Dasyatis americana (Dasyatidae family)
+gazelle:There's a few different types, let me know the one your interested in.Dama Gazelle,Nanger dama,Slender-Horned Gazelle,Gazella leptoceros,Thomson's Gazelle,Gazella thomsonii
+camel:There's a few different types, let me know the one your interested in.Dromedary Camel,Camelus dromedarius
+crane:There's a few different types, let me know the one your interested in.East African Grey-Crowned Crane,Phacochoerus aethiopicus,Red Crowned Crane,Grus Japonensis
+salamander:There's a few different types, let me know the one your interested in.Eastern Hellbender,Cryptobranchus alleganiensis alleganiensis
+manatee:There's a few different types, let me know the one your interested in.Florida Manatee,Trichecus manatus latirostris
+bat:There's a few different types, let me know the one your interested in.Flying Fox Bat,Pteropus Vampyrus,Golden Mantled Bat,Pteropus Pumilus
+eel:There's a few different types, let me know the one your interested in.Garden Eel,Heteroconger hassi (Congridae family)
+frog:There's a few different types, let me know the one your interested in.Golden Frog,Atelopus zeteki
+zebra:There's a few different types, let me know the one your interested in.Grant's Zebra,Equus quagga
+fowl:There's a few different types, let me know the one your interested in.Guinea Fowl,Numididae
+penguin:There's a few different types, let me know the one your interested in.Humboldt Penguin,Spheniscus humboldti
+porcupine:There's a few different types, let me know the one your interested in.Indian Crested Porcupine,Hystrix indica
+kiwi:There's a few different types, let me know the one your interested in.Kiwi,Apterygiforms
+goat:There's a few different types, let me know the one your interested in.Markhor,Capra Falconeri
+giraffe:There's a few different types, let me know the one your interested in.Masai Giraffe,Giraffa camelopardalis tippelskirchi,Okapi,Okapia jonstoni,Pronghorn,Antilocapra americana,Reticulated Giraffe,Giraffa camelopardalis reticulata
+wolf:There's a few different types, let me know the one your interested in.Mexican Wolf,Canis lupus baileyi
+moose:There's a few different types, let me know the one your interested in.Moose,Alces alces
+deer:There's a few different types, let me know the one your interested in.Muntjac,Muntiacus Muntjac,Reindeer,Rangifer tarandus,Western Tufted Deer,Elaphodus Cephalophus
+orangutan:There's a few different types, let me know the one your interested in.Orangutan,Pongo pygmaeus abelii
+puma:There's a few different types, let me know the one your interested in.Puma,Puma concolor
+hog:There's a few different types, let me know the one your interested in.Red River Hog,Potamochoerus porcus,Warthog
+stork:There's a few different types, let me know the one your interested in.Saddle-Billed Stork,Ephippiorhynchus senegalensis
+ape:There's a few different types, let me know the one your interested in.Siamang,Hylobates syndactylus,White Handed Gibbon,Hylobates lar
+gorilla:There's a few different types, let me know the one your interested in.Western Lowland Gorilla,Gorilla gorilla gorilla
+wolverine:There's a few different types, let me know the one your interested in.Wolverine,Gulo gulo

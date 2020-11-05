@@ -109,6 +109,23 @@ a:hover {
 
 #submit { width: 60px; align: right}
 
+#chatbox p {
+  padding: 8px;
+}
+
+#chatbox p b {
+  padding: 4px 8px;
+  color: rgb(255, 255, 255);
+  border-radius: 4px;
+}
+
+#chatbox p .bot {
+  background-color: #E91E63;
+}
+
+#chatbox p .guest {
+  background-color: #E91E63;
+}
 
 /* MEDIA QUERIES */
 @media screen and (min-width: 47.5em ) {

@@ -98,6 +98,17 @@
     </category>
 
     <category>
+        <pattern>WHAT IS A *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+
+            <map name="animals"><star/></map>
+        </template>
+    </category>
+
+    <category>
         <pattern>WHAT IS *</pattern>
         <template>
 
@@ -149,6 +160,26 @@
     </category>
 
     <category>
+        <pattern>WHERE IS A *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+            <star/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE IS AN *</pattern>
+        <template>
+            <think>
+                <set name="topic"><star/></set>
+            </think>
+            <star/> can be found in the <map name="locations"><get name="topic"/></map> region
+        </template>
+    </category>
+
+    <category>
         <pattern>WHERE CAN I FIND AN *</pattern>
         <template>
             <think>
@@ -188,6 +219,26 @@
 
     <category>
         <pattern>WHAT DO THEY EAT</pattern>
+        <template>
+            <get name="topic"/> are <map name="diet"><get name="topic"/></map>.
+            <map name="diet2">
+                <get name="topic"/>
+            </map>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT DOES *</pattern>
+        <template>
+            <get name="topic"/> are <map name="diet"><get name="topic"/></map>.
+            <map name="diet2">
+                <get name="topic"/>
+            </map>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT DOES AN *</pattern>
         <template>
             <get name="topic"/> are <map name="diet"><get name="topic"/></map>.
             <map name="diet2">
